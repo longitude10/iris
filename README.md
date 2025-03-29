@@ -1,1 +1,1 @@
-# iris
+# IRIS (Integrated Shrimp Scan)
