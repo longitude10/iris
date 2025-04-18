@@ -1,5 +1,5 @@
 # 🦐 IRIS: Intelligent Real-time Shrimp Identifier
-<img src="assets/iris-logo.png" alt="IRIS Logo" width="150"/>
+<img src="static/Logo_PKM_KI_IRIS.png" alt="IRIS Logo" width="150"/>
 
 **IRIS** is an AI-powered shrimp detection system that helps farmers count and classify shrimp larvae using computer vision and IoT.
 
