@@ -2,7 +2,7 @@
   <img src="static/Logo_PKM_KI_IRIS.png" alt="IRIS Logo" width="150"/>
 </p>
 
-<h1 align="center">iris. | Unlock Efficiency</h1>
+<h1 align="center">IRIS. | Unlock Efficiency</h1>
 
 <p align="center">
   An AI-powered shrimp detection system designed to help farmers count and classify shrimp larvae using computer vision and IoT integration.
